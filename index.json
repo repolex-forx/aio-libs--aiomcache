@@ -1,0 +1,11 @@
+{
+  "org": "aio-libs",
+  "repo": "aiomcache",
+  "versions": [
+    {
+      "commit": "bf912d16f4a3e7c81b1680b49c39a42d18ab0d91",
+      "tag": "",
+      "parsed_at": "2026-10-11T04:42:31.551000+00:00"
+    }
+  ]
+}
